@@ -13,6 +13,7 @@
 		BAABF35C23E09C0500594798 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAABF35A23E09C0500594798 /* Main.storyboard */; };
 		BAABF35E23E09C0B00594798 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAABF35D23E09C0B00594798 /* Assets.xcassets */; };
 		BAABF36123E09C0B00594798 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAABF35F23E09C0B00594798 /* LaunchScreen.storyboard */; };
+		BAABF36923E09FA600594798 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAABF36823E09FA600594798 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BAABF35D23E09C0B00594798 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAABF36023E09C0B00594798 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAABF36223E09C0B00594798 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAABF36823E09FA600594798 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../SwiftyJSON-master/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BAABF35D23E09C0B00594798 /* Assets.xcassets */,
 				BAABF35F23E09C0B00594798 /* LaunchScreen.storyboard */,
 				BAABF36223E09C0B00594798 /* Info.plist */,
+				BAABF36823E09FA600594798 /* SwiftyJSON.swift */,
 			);
 			path = TopStories;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				BAABF35923E09C0500594798 /* SourcesViewController.swift in Sources */,
 				BAABF35523E09C0500594798 /* AppDelegate.swift in Sources */,
 				BAABF35723E09C0500594798 /* SceneDelegate.swift in Sources */,
+				BAABF36923E09FA600594798 /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
